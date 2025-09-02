@@ -1,6 +1,5 @@
-Boa tarde, Kyk! 😄 Aqui está um exemplo de README para um projeto de vendas de games com foco em assinaturas digitais como EA Play Season Pass e Minecraft Season Pass. Ele segue boas práticas de documentação e pode ser adaptado conforme os dados e funcionalidades do seu projeto:
 
----
+
 
 ## 📄 README - Dashboard de Vendas de Games com Subscrições Digitais
 
@@ -64,6 +63,4 @@ Desenvolvido por aloisio
 
 Este projeto está disponível sob a licença MIT. Livre para fins educacionais e uso pessoal.
 
----
 
-Se quiser, posso te ajudar a criar os gráficos ou estruturar os dados na planilha também. Quer que eu te ajude com isso?
