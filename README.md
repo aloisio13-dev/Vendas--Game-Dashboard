@@ -55,9 +55,8 @@ O objetivo é transformar dados brutos em insights visuais que auxiliem na tomad
 
 ### 👨‍💻 Autor
 
-Desenvolvido por **Kyk**  
-📍 Salvador, Bahia  
-🔗 Projeto acadêmico ou portfólio pessoal
+Desenvolvido por aloisio
+
 
 ---
 
